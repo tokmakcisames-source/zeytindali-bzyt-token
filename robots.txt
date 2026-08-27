@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeytindali-bzyt-token-dfpv.vercel.app/sitemap.xml
